@@ -1,0 +1,24 @@
+[
+  {
+    "combo": [68, 83, 87, 87, 65, 83],
+    "delay": 5,
+    "description": "Thunderer Barrage",
+    "modifiers": [162],
+    "trigger": 90
+  },
+  {
+    "combo": [87, 83, 68, 65, 87],
+    "delay": 5,
+    "description": "Reinforce",
+    "modifiers": [162],
+    "trigger": 70
+  },
+  {
+    "combo": [82, 9],
+    "delay": 5,
+    "description": "Ammo Glitch",
+    "modifiers": [],
+    "repeat": true,
+    "trigger": 96
+  }
+]
