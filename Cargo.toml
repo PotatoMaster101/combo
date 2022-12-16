@@ -1,0 +1,11 @@
+[package]
+name = "combo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "3.1.2", features = ["derive"] }
+inputbot = { git = "https://github.com/obv-mikhail/InputBot", branch = "develop" }
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
